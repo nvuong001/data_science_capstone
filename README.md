@@ -1,2 +1,2 @@
 # data_science_capstone
-Repository for Coursera Data Science Capstone Class
+Repository to hold code and to satisfy the Coursera Data Science Capstone Class.
